@@ -1,0 +1,46 @@
+worlds:
+  world:
+    worldborder: 5.9999968E7
+    difficulty: HARD
+    seed: -1044175408647731309
+    environment: NORMAL
+    name: world
+    info: -/-
+    mohist: false
+    keepspawninmemory: true
+  DIM-1:
+    worldborder: 5.9999968E7
+  DIM1:
+    worldborder: 5.9999968E7
+  reality_marble:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: mahoutsukai
+  pocket_dimension:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: theabyss
+  everdawn:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: blue_skies
+  the_abyss:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: theabyss
+  everbright:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: blue_skies
+  past:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: graveyard
+  frost_world:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: theabyss
+  spectral_world:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: theabyss

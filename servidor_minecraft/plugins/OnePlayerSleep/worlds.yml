@@ -1,0 +1,152 @@
+#autofilled per-world settings
+#world name according to bukkit
+default:
+    #world name placeholder
+    name: "default"
+    #what set of messages to use for this world
+    msgGroup: "default"
+    #which worlds to send sleep messages
+    # environment names such as "NORMAL", "NETHER", "THE_END" will send to all worlds with that environment
+    # "ALL" will send to all worlds.
+    sendTo:
+      - "world"
+    #which worlds to send time and weather updates, with same placeholders as above
+    # at least 2 players total to trigger sleep message
+    timeSync:
+      - "world"
+    #range of time when sleep is allowed
+    # effective min for overworld - 12010
+    # effective max for overworld - 23992
+    startTime: 12010
+    stopTime: 23992
+world:
+    name: "[world]"
+    msgGroup: "default"
+    sendTo:
+        - "world"
+    timeSync:
+        - "world"
+    startTime: 12010
+    stopTime: 23992
+DIM1:
+    name: "[DIM1]"
+    msgGroup: "default"
+    sendTo:
+        - "DIM1"
+        - "world"
+    timeSync:
+        - "DIM1"
+        - "world"
+    startTime: 12010
+    stopTime: 23992
+    cancelBedExplode: false
+reality_marble:
+    name: "[reality_marble]"
+    msgGroup: "default"
+    sendTo:
+        - "reality_marble"
+        - "world"
+    timeSync:
+        - "reality_marble"
+        - "world"
+    startTime: 12010
+    stopTime: 23992
+    cancelBedExplode: false
+pocket_dimension:
+    name: "[pocket_dimension]"
+    msgGroup: "default"
+    sendTo:
+        - "pocket_dimension"
+        - "world"
+    timeSync:
+        - "pocket_dimension"
+        - "world"
+    startTime: 12010
+    stopTime: 23992
+    cancelBedExplode: false
+everbright:
+    name: "[everbright]"
+    msgGroup: "default"
+    sendTo:
+        - "everbright"
+        - "world"
+    timeSync:
+        - "everbright"
+        - "world"
+    startTime: 12010
+    stopTime: 23992
+    cancelBedExplode: false
+frost_world:
+    name: "[frost_world]"
+    msgGroup: "default"
+    sendTo:
+        - "frost_world"
+        - "world"
+    timeSync:
+        - "frost_world"
+        - "world"
+    startTime: 12010
+    stopTime: 23992
+    cancelBedExplode: false
+spectral_world:
+    name: "[spectral_world]"
+    msgGroup: "default"
+    sendTo:
+        - "spectral_world"
+        - "world"
+    timeSync:
+        - "spectral_world"
+        - "world"
+    startTime: 12010
+    stopTime: 23992
+    cancelBedExplode: false
+the_abyss:
+    name: "[the_abyss]"
+    msgGroup: "default"
+    sendTo:
+        - "the_abyss"
+        - "world"
+    timeSync:
+        - "the_abyss"
+        - "world"
+    startTime: 12010
+    stopTime: 23992
+    cancelBedExplode: false
+DIM-1:
+    name: "[DIM-1]"
+    msgGroup: "default"
+    sendTo:
+        - "DIM-1"
+        - "world"
+    timeSync:
+        - "DIM-1"
+        - "world"
+    startTime: 12010
+    stopTime: 23992
+    cancelBedExplode: false
+past:
+    name: "[past]"
+    msgGroup: "default"
+    sendTo:
+        - "past"
+        - "world"
+    timeSync:
+        - "past"
+        - "world"
+    startTime: 12010
+    stopTime: 23992
+    cancelBedExplode: false
+everdawn:
+    name: "[everdawn]"
+    msgGroup: "default"
+    sendTo:
+        - "everdawn"
+        - "world"
+    timeSync:
+        - "everdawn"
+        - "world"
+    startTime: 12010
+    stopTime: 23992
+    cancelBedExplode: false
+
+version: 1.2

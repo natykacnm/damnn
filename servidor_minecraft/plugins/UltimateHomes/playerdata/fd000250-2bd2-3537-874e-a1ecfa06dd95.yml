@@ -1,0 +1,74 @@
+player:
+  info:
+    lastSeenAs: ulvm
+homes:
+  l:
+    x: 39
+    y: 58
+    z: 10
+    yaw: 49.61377
+    pitch: 48.41116
+    world: world
+  a:
+    x: 51
+    y: 122
+    z: 190
+    yaw: -16.086365
+    pitch: 55.79645
+    world: world
+  p:
+    x: 1085
+    y: 71
+    z: 214
+    yaw: 145.26245
+    pitch: 28.134094
+    world: world
+  j:
+    x: 72
+    y: 69
+    z: -707
+    yaw: -169.98213
+    pitch: 11.412874
+    world: world
+  morir:
+    x: -797
+    y: 36
+    z: -272
+    yaw: -44.373413
+    pitch: 87.37903
+    world: DIM-1
+  muerte1:
+    x: -758
+    y: 41
+    z: -245
+    yaw: -179.83923
+    pitch: 42.135056
+    world: DIM-1
+  blazes:
+    x: 518
+    y: 74
+    z: 121
+    yaw: 81.81348
+    pitch: 31.030628
+    world: DIM-1
+  b2:
+    x: 1367
+    y: 65
+    z: 371
+    yaw: -2.4095306
+    pitch: 42.96266
+    world: DIM-1
+  op:
+    x: 1398
+    y: 60
+    z: 338
+    yaw: 176.0459
+    pitch: 37.720856
+    world: DIM-1
+  continuar:
+    x: 1349
+    y: 60
+    z: 274
+    yaw: 54.635376
+    pitch: 17.31683
+    world: DIM-1

@@ -1,0 +1,67 @@
+player:
+  info:
+    lastSeenAs: Karmaxz
+homes:
+  village:
+    x: 22
+    y: 236
+    z: 7
+    yaw: 174.04955
+    pitch: 42.16907
+    world: world
+  enchant:
+    x: 52
+    y: 122
+    z: 195
+    yaw: 158.5384
+    pitch: 37.883324
+    world: world
+  explo:
+    x: 476
+    y: 95
+    z: 523
+    yaw: 9.977844
+    pitch: 52.891354
+    world: world
+  drago2:
+    x: 841
+    y: 76
+    z: -38
+    yaw: 19.408081
+    pitch: 41.403286
+    world: world
+  casa:
+    x: 636
+    y: 73
+    z: -483
+    yaw: 0.942749
+    pitch: 25.16955
+    world: world
+  estru:
+    x: 48
+    y: 107
+    z: -480
+    yaw: -76.428955
+    pitch: 32.303734
+    world: world
+  magi:
+    x: 8
+    y: 79
+    z: -727
+    yaw: -175.9168
+    pitch: 77.867
+    world: world
+  cont:
+    x: 378
+    y: 177
+    z: -1530
+    yaw: 99.3374
+    pitch: 44.59553
+    world: world
+  nethe:
+    x: -784
+    y: 68
+    z: 112
+    yaw: 1.4025879
+    pitch: 26.301859
+    world: DIM-1
